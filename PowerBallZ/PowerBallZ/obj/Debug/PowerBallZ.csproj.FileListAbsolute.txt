@@ -1,0 +1,15 @@
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\bin\Debug\PowerBallZ.exe.config
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\bin\Debug\PowerBallZ.exe
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\bin\Debug\PowerBallZ.pdb
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Debug\MainWindow.baml
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Debug\MainWindow.g.cs
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Debug\App.g.cs
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Debug\PowerBallZ_MarkupCompile.cache
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Debug\PowerBallZ.g.resources
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Debug\PowerBallZ.Properties.Resources.resources
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Debug\PowerBallZ.csproj.GenerateResource.Cache
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Debug\PowerBallZ.exe
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Debug\PowerBallZ.pdb
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Debug\PowerBallZ.csprojResolveAssemblyReference.cache
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Debug\Firework.baml
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Debug\Firework.g.cs

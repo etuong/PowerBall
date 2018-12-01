@@ -1,0 +1,60 @@
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\bin\Release\PowerBallZ.exe.config
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\bin\Release\PowerBallZ.exe
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\bin\Release\PowerBallZ.pdb
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Release\Firework.baml
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Release\MainWindow.baml
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Release\Firework.g.cs
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Release\MainWindow.g.cs
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Release\App.g.cs
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ_MarkupCompile.cache
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.g.resources
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.Properties.Resources.resources
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.csproj.GenerateResource.Cache
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.exe
+C:\Users\Ethan.Uong\Desktop\PlayTime\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.pdb
+G:\USERS\EUong\WPF Practice\PowerBallZ\PowerBallZ\bin\Release\PowerBallZ.exe.config
+G:\USERS\EUong\WPF Practice\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.exe
+G:\USERS\EUong\WPF Practice\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.pdb
+G:\USERS\EUong\WPF Practice\PowerBallZ\PowerBallZ\bin\Release\PowerBallZ.exe
+G:\USERS\EUong\WPF Practice\PowerBallZ\PowerBallZ\bin\Release\PowerBallZ.pdb
+G:\USERS\EUong\WPF Practice\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.csprojResolveAssemblyReference.cache
+G:\USERS\EUong\WPF Practice\PowerBallZ\PowerBallZ\obj\Release\Firework.baml
+G:\USERS\EUong\WPF Practice\PowerBallZ\PowerBallZ\obj\Release\MainWindow.baml
+G:\USERS\EUong\WPF Practice\PowerBallZ\PowerBallZ\obj\Release\Firework.g.cs
+G:\USERS\EUong\WPF Practice\PowerBallZ\PowerBallZ\obj\Release\MainWindow.g.cs
+G:\USERS\EUong\WPF Practice\PowerBallZ\PowerBallZ\obj\Release\App.g.cs
+G:\USERS\EUong\WPF Practice\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ_MarkupCompile.cache
+G:\USERS\EUong\WPF Practice\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.g.resources
+G:\USERS\EUong\WPF Practice\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.Properties.Resources.resources
+G:\USERS\EUong\WPF Practice\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.csproj.GenerateResource.Cache
+C:\Users\Ethan.Uong\Desktop\WPF\PowerBallZ\PowerBallZ\PowerBallZ\bin\Release\PowerBallZ.exe.config
+C:\Users\Ethan.Uong\Desktop\WPF\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.exe
+C:\Users\Ethan.Uong\Desktop\WPF\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.pdb
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\PowerBallZ\PowerBallZ\PowerBallZ\bin\Release\PowerBallZ.exe.config
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.exe
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.pdb
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\PowerBallZ\PowerBallZ\PowerBallZ\bin\Release\PowerBallZ.exe
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\PowerBallZ\PowerBallZ\PowerBallZ\bin\Release\PowerBallZ.pdb
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\Firework.baml
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\MainWindow.baml
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\Firework.g.cs
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\MainWindow.g.cs
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\App.g.cs
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ_MarkupCompile.cache
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.g.resources
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.Properties.Resources.resources
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.csproj.GenerateResource.Cache
+C:\Users\etuon\Documents\Code\PowerBallZ\PowerBallZ\PowerBallZ\bin\Release\PowerBallZ.exe.config
+C:\Users\etuon\Documents\Code\PowerBallZ\PowerBallZ\PowerBallZ\bin\Release\PowerBallZ.exe
+C:\Users\etuon\Documents\Code\PowerBallZ\PowerBallZ\PowerBallZ\bin\Release\PowerBallZ.pdb
+C:\Users\etuon\Documents\Code\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.csprojAssemblyReference.cache
+C:\Users\etuon\Documents\Code\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\MainWindow.baml
+C:\Users\etuon\Documents\Code\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\MainWindow.g.cs
+C:\Users\etuon\Documents\Code\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\App.g.cs
+C:\Users\etuon\Documents\Code\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ_MarkupCompile.cache
+C:\Users\etuon\Documents\Code\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.g.resources
+C:\Users\etuon\Documents\Code\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.Properties.Resources.resources
+C:\Users\etuon\Documents\Code\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.csproj.GenerateResource.cache
+C:\Users\etuon\Documents\Code\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.csproj.CoreCompileInputs.cache
+C:\Users\etuon\Documents\Code\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.exe
+C:\Users\etuon\Documents\Code\PowerBallZ\PowerBallZ\PowerBallZ\obj\Release\PowerBallZ.pdb
